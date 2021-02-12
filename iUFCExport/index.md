@@ -54,5 +54,4 @@ All buttons can be used
 * [Lua script source code](https://github.com/wluc9875/iUFCExport-LuaScript)
 * [iPad source code](https://github.com/wluc9875/iUFCExport-iPad)
 
-## Privacy policy
-I do not collect, use, save, or have access to any of your personal data using iUFCExport.
+## [Privacy policy](privacy.md)
