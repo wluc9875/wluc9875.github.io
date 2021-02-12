@@ -1,10 +1,14 @@
 # iUFCExport
 Display and interact with DCS ([Digital Combat Simulator](https://www.digitalcombatsimulator.com)) plane panels from your iPad
 
+Check [this video](https://www.youtube.com/watch?v=Kx_l9_WEQhs) of iUFCExport in action.
+
 ## How to install and configure
 
 1) Install the iPad application from the Apple AppStore or use Xcode to build the application from [source](https://github.com/wluc9875/iUFCExport-iPad)
+
 2) Install the Lua script on the PC where you installed DCS. Follow these [instructions](https://github.com/wluc9875/iUFCExport-LuaScript#readme).
+
 3) (Optional) If after installing everything as explained in steps 1 and 2, you can't control DCS from your iPad, you may have to configure a different outbound IP address. Follow these [instructions](https://github.com/wluc9875/iUFCExport-iPad#configuration).
 
 
