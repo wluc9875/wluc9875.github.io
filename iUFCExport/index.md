@@ -5,7 +5,7 @@ Check [this video](https://www.youtube.com/watch?v=Kx_l9_WEQhs) of iUFCExport in
 
 ## How to install and configure
 
-1) Install the iPad application from the Apple AppStore or use Xcode to build the application from [source](https://github.com/wluc9875/iUFCExport-iPad)
+1) Install the iPad application from the [Apple AppStore](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1551491580) or use Xcode to build the application from [source](https://github.com/wluc9875/iUFCExport-iPad)
 
 2) Install the Lua script on the PC where you installed DCS. Follow these [instructions](https://github.com/wluc9875/iUFCExport-LuaScript#readme).
 
