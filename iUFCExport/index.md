@@ -9,7 +9,7 @@ Check [this video](https://www.youtube.com/watch?v=Kx_l9_WEQhs) of iUFCExport in
 
 2) Install the Lua script on the PC where you installed DCS. Follow these [instructions](https://github.com/wluc9875/iUFCExport-LuaScript#readme).
 
-3) (Optional) If after installing everything as explained in steps 1 and 2, you can't control DCS from your iPad, you may have to configure a different outbound IP address. Follow these [instructions](https://github.com/wluc9875/iUFCExport-iPad#configuration).
+3) (Optional) If after installing everything as explained in steps 1 and 2, you can't control DCS from your iPad, or you can't see anything in the UFC displays on your iPad, you may have to do some additional configuration. Follow these [instructions](https://github.com/wluc9875/iUFCExport-iPad#configuration) to configure the iPad application.
 
 
 ## Current version
