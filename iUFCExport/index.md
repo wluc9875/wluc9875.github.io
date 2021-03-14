@@ -12,8 +12,8 @@ Check [this video](https://www.youtube.com/watch?v=Kx_l9_WEQhs) of iUFCExport in
 3) (Optional) If after installing everything as explained in steps 1 and 2, you can't control DCS from your iPad, or you can't see anything in the UFC displays on your iPad, you may have to do some additional configuration. Follow these [instructions](https://github.com/wluc9875/iUFCExport-iPad#configuration) to configure the iPad application.
 
 
-## Current version
-1.0
+## Latest version
+1.2 (planned for release week of March 14)
 
 ## Supported planes and panels
 ### F-16C ICP
@@ -48,7 +48,7 @@ The COMM channel buttons work like this:
 
 ### JF-17 UFCP
 ![JF17-UFCP](./resources/jf17-ufcp.png)
-All buttons can be used
+All buttons can be used, except the 4 potentiometers at the bottom.
 
 ## Source code
 * [Lua script source code](https://github.com/wluc9875/iUFCExport-LuaScript)
