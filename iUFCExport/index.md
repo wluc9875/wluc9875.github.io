@@ -17,7 +17,7 @@ Check [this video](https://www.youtube.com/watch?v=Kx_l9_WEQhs) of iUFCExport in
 
 ## Supported planes and panels
 ### F-16C ICP
-![F16-ICP](./resources/f16-icp.png)
+![F16-ICP](./resources/f16-icp.png?)
 All buttons, switches and rotating wheels can be used.
 
 To use a switch, touch in the area towards which you want to push this switch.
@@ -25,7 +25,7 @@ To use a switch, touch in the area towards which you want to push this switch.
 To use a rotating wheel, touch its upper area or its lower area to rotate in the corresponding direction.
 
 ### F/A-18C UFC
-![FA18-UFC](./resources/fa18-ufc.png)
+![FA18-UFC](./resources/fa18-ufc.png?)
 All buttons, switches and rotating buttons can be used.
 
 To use a switch, touch in the area towards which you want to push this switch.
@@ -37,7 +37,7 @@ The COMM channel buttons work like this:
 * touch below or above the COMM channel display to respectively decrease or increase the channel
 
 ### AV-8BNA UFC and ODUs
-![AV8-UFC](./resources/av8-ufc.png)
+![AV8-UFC](./resources/av8-ufc.png?)
 All buttons and rotating buttons can be used, except:
 * the 2 volume buttons
 * the brightness button
@@ -47,7 +47,7 @@ The COMM channel buttons work like this:
 * touch below or above the COMM button to respectively decrease or increase the channel
 
 ### JF-17 UFCP
-![JF17-UFCP](./resources/jf17-ufcp.png)
+![JF17-UFCP](./resources/jf17-ufcp.png?)
 All buttons can be used, except the 4 potentiometers at the bottom.
 
 ## Source code
