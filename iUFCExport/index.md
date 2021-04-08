@@ -13,9 +13,14 @@ Check [this video](https://www.youtube.com/watch?v=Kx_l9_WEQhs) of iUFCExport in
 
 
 ## Latest version
-1.2 (planned for release week of March 14)
+1.3 (released April 6, 2021)
 
 ## Supported planes and panels
+
+### A-10C UFC
+![A10C-UFC](./resources/a10c-ufc.png?)
+All buttons can be used.
+
 ### F-16C ICP
 ![F16-ICP](./resources/f16-icp.png?)
 All buttons, switches and rotating wheels can be used.
@@ -49,6 +54,11 @@ The COMM channel buttons work like this:
 ### JF-17 UFCP
 ![JF17-UFCP](./resources/jf17-ufcp.png?)
 All buttons can be used, except the 4 potentiometers at the bottom.
+
+## Next version
+Version 1.4 will add support for the AJS37 CK37 and waypoint panels.
+Here's a preview:
+![AJS37-CK37](./resources/ajs37-ck37.png?)
 
 ## Source code
 * [Lua script source code](https://github.com/wluc9875/iUFCExport-LuaScript)
