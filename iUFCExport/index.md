@@ -17,29 +17,23 @@ Check [this video](https://www.youtube.com/watch?v=Kx_l9_WEQhs) of iUFCExport in
 
 ## Supported planes and panels
 
+Non-obvious clickable zones are highlighted in red.
+
 ### A-10C UFC
 ![A10C-UFC](./resources/a10c-ufc.png?)
-All buttons can be used.
+All buttons work, including "Master caution" reset.
+"Master caution" light illuminates.
 
 ### F-16C ICP
 ![F16-ICP](./resources/f16-icp.png?)
-All buttons, switches and rotating wheels can be used.
-
-To use a switch, touch in the area towards which you want to push this switch.
-
-To use a rotating wheel, touch its upper area or its lower area to rotate in the corresponding direction.
+All buttons, switches and rotating wheels work.
+The large wheeels (for example SYM or BRT) work but do not animate.
 
 ### F/A-18C UFC
 ![FA18-UFC](./resources/fa18-ufc.png?)
 All buttons, switches and rotating buttons can be used.
 
-To use a switch, touch in the area towards which you want to push this switch.
-
-For rotating buttons, touch in its left or right half to respectively turn it counterclockwise or clockwise.
-
-The COMM channel buttons work like this:
-* touch the COMM channel display to push it
-* touch below or above the COMM channel display to respectively decrease or increase the channel
+All displays are sync'ed with DCS.
 
 ### AV-8BNA UFC and ODUs
 ![AV8-UFC](./resources/av8-ufc.png?)
@@ -47,13 +41,13 @@ All buttons and rotating buttons can be used, except:
 * the 2 volume buttons
 * the brightness button
 
-The COMM channel buttons work like this:
-* touch the button to push it
-* touch below or above the COMM button to respectively decrease or increase the channel
+All displays are sync'ed with DCS.
 
 ### JF-17 UFCP
 ![JF17-UFCP](./resources/jf17-ufcp.png?)
 All buttons can be used, except the 4 potentiometers at the bottom.
+
+All displays are sync'ed with DCS.
 
 ## Next version
 Version 1.4 will add support for the AJS37 CK37 and waypoint panels.
