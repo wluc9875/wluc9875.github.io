@@ -13,7 +13,7 @@ Check [this video](https://www.youtube.com/watch?v=Kx_l9_WEQhs) of iUFCExport in
 
 
 ## Latest version
-1.3 (released April 6, 2021)
+1.4 (released May 2, 2021)
 
 ## Supported planes and panels
 
@@ -49,10 +49,16 @@ All buttons can be used, except the 4 potentiometers at the bottom.
 
 All displays are sync'ed with DCS.
 
-## Next version
-Version 1.4 will add support for the AJS37 CK37 and waypoint panels.
-Here's a preview:
+### AJS 37 CK 37 and waypoints panels
 ![AJS37-CK37](./resources/ajs37-ck37.png?)
+All buttons can be used, except for the RENSA button and its guard.
+
+All displays are sync'ed with DCS.
+
+## Next version
+Version 1.5 will add support for the Ka50 PVI-800.
+Here's a preview:
+![KA50-PVI800](./resources/KA50-PVI.png?)
 
 ## Source code
 * [Lua script source code](https://github.com/wluc9875/iUFCExport-LuaScript)
