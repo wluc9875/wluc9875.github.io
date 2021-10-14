@@ -13,7 +13,7 @@ Check [this video](https://www.youtube.com/watch?v=Kx_l9_WEQhs) of iUFCExport in
 
 
 ## Latest version
-1.5 (released May 30, 2021)
+1.6 (released October 3, 2021)
 
 ## Supported planes and panels
 
@@ -61,10 +61,11 @@ All buttons can be used, except the brightness.
 
 All displays are sync'ed with DCS.
 
-## Next version
-Version 1.6 will add support for the Mirage 2000C PCN.
-Here's a preview:
+### Mirage 2000 C PCN
 ![M2000-PCN](./resources/M2000-PCN.png?)
+All buttons can be used except the brightness button.
+
+All displays are sync'ed with DCS, except the markpoints lights (M91-M93).
 
 ## Source code
 * [Lua script source code](https://github.com/wluc9875/iUFCExport-LuaScript)
