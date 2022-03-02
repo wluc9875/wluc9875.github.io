@@ -1,7 +1,7 @@
 # iUFCExport
 Display and interact with DCS ([Digital Combat Simulator](https://www.digitalcombatsimulator.com)) plane panels from your iPad
 
-Check [this video](https://www.youtube.com/watch?v=Kx_l9_WEQhs) of iUFCExport in action.
+Check [this video review](https://www.youtube.com/watch?v=oVZdlUAiStw) by [The Air Warfare Group](https://www.youtube.com/channel/UCdz6fNb-V-h2iZ_daWNoaTQ) to watch iUFCExport in action.
 
 ## How to install and configure
 
@@ -13,7 +13,9 @@ Check [this video](https://www.youtube.com/watch?v=Kx_l9_WEQhs) of iUFCExport in
 
 
 ## Latest version
-1.6 (released October 3, 2021)
+1.7 (submitted to Apple AppStore on March 2, 2022)
+
+Will be released a couple of days after that date.
 
 ## Supported planes and panels
 
@@ -24,16 +26,32 @@ Non-obvious clickable zones are highlighted in red.
 All buttons work, including "Master caution" reset.
 "Master caution" light illuminates.
 
+### A-10C CMS
+![A10C-CMS](./resources/A10-CMS.png?)
+All buttons and displays work, except the brightness button.
+
+To use the system switches, touch the bottom part to toggle between ON and OFF. Touch the upper part to activate the menu.
+
 ### F-16C ICP
 ![F16-ICP](./resources/f16-icp.png?)
 All buttons, switches and rotating wheels work.
 The large wheeels (for example SYM or BRT) work but do not animate.
+
+### F-16C CMS
+![F16-CMS](./resources/F16-CMS.png?)
+All buttons and displays work, except the GO/NOGO lights.
 
 ### F/A-18C UFC
 ![FA18-UFC](./resources/fa18-ufc.png?)
 All buttons, switches and rotating buttons can be used.
 
 All displays are sync'ed with DCS.
+
+### F/A-18C CMS
+![F18-CMS](./resources/F18-CMS.png?)
+All buttons work.
+
+Note that the RWR panel is NOT implemented yet!
 
 ### AV-8BNA UFC and ODUs
 ![AV8-UFC](./resources/av8-ufc.png?)
@@ -55,17 +73,29 @@ All buttons can be used, except for the RENSA button and its guard.
 
 All displays are sync'ed with DCS.
 
+### AJS 37 CMS
+![AJS37-CMS](./resources/AJS37-CMS.png?)
+All rotators  work.
+
 ### Ka 50 PVI 800
 ![KA50-PVI800](./resources/KA50-PVI.png?)
 All buttons can be used, except the brightness.
 
 All displays are sync'ed with DCS.
 
+### Ka 50 CMS
+![KA50-CMS](./resources/KA50-CMS.png?)
+All buttons and displays work.
+
 ### Mirage 2000 C PCN
 ![M2000-PCN](./resources/M2000-PCN.png?)
 All buttons can be used except the brightness button.
 
 All displays are sync'ed with DCS, except the markpoints lights (M91-M93).
+
+### Mirage 2000 C CMS
+![M2000-CMS](./resources/M2000-CMS.png?)
+All switches work.
 
 ## Source code
 * [Lua script source code](https://github.com/wluc9875/iUFCExport-LuaScript)
