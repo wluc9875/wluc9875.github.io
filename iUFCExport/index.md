@@ -13,9 +13,10 @@ Check [this video review](https://www.youtube.com/watch?v=oVZdlUAiStw) by [The A
 
 
 ## Latest version
-1.7 (submitted to Apple AppStore on March 2, 2022)
+1.7.1 (released on Apple AppStore on July 1st, 2023)
 
-Will be released a couple of days after that date.
+Fixes issues with button pushes not registered or stuck on DCS.
+
 
 ## Supported planes and panels
 
