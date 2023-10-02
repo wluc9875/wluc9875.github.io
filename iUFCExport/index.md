@@ -13,9 +13,9 @@ Check [this video review](https://www.youtube.com/watch?v=oVZdlUAiStw) by [The A
 
 
 ## Latest version
-1.7.1 (released on Apple AppStore on July 1st, 2023)
+1.8 (released on Apple AppStore on September 30, 2023)
 
-Fixes issues with button pushes not registered or stuck on DCS.
+Added support for F-15E UFC and for AH-64D Keyboard Unit.
 
 
 ## Supported planes and panels
@@ -33,10 +33,19 @@ All buttons and displays work, except the brightness button.
 
 To use the system switches, touch the bottom part to toggle between ON and OFF. Touch the upper part to activate the menu.
 
-### F-16C ICP
-![F16-ICP](./resources/f16-icp.png?)
-All buttons, switches and rotating wheels work.
-The large wheeels (for example SYM or BRT) work but do not animate.
+### AH-64D Keyboard Unit (only for Pilot)
+![AH-64D-KU](./resources/AH-64D-KU.png?)
+All buttons and displays work, except the brightness button.
+### F-15E UFC (only for Pilot)
+![A10C-CMS](./resources/A10-CMS.png?)
+All buttons and displays work, except the brightness button.
+
+To use the system switches, touch the bottom part to toggle between ON and OFF. Touch the upper part to activate the menu.
+
+### F-15C ICP
+![F-15E-UFC](./resources/F-15E-UFC.png?)
+All buttons work, except for the volume rotaries.
+The lower and higher half of the volume rotaries are used to decrement / increment the preset radio channels.
 
 ### F-16C CMS
 ![F16-CMS](./resources/F16-CMS.png?)
